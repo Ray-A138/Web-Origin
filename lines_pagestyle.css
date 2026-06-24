@@ -115,3 +115,9 @@ footer {
 .bold{
     font-weight: bold;
 }
+
+.linkcolor {
+    color: rgb(7, 171, 168);
+    text-decoration: none;
+    font-style: italic;
+}

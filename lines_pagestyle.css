@@ -113,5 +113,10 @@ footer {
 
 
 .bold{
-    font-weight: bold;
+    font-weight: bold
+}
+
+.creatorname{
+    color: aquamarine;
+    font-size: 25px;
 }

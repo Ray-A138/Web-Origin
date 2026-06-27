@@ -124,3 +124,18 @@ footer {
     font-style: italic;
     font-size: 25px;
 }
+
+#attention{
+    color: rgb(128, 203, 178);
+    font-style:italic;
+    font-size: 40px;
+    text-align: center;
+    text-shadow:2px 2px 4px #cc3c3c;
+}
+
+#attentionsentence{
+    color: rgb(128, 203, 178);
+    font-style:italic;
+    font-size:25px;
+    text-align: center;
+}

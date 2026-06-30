@@ -147,8 +147,9 @@ footer {
 }
 
 #attentionsentence{
-
-    color: rgb(128, 203, 178);
+    font-size: 25px;
+    color: rgb(153, 201, 185);
     font-style:italic;
-    text-shadow:2px 2px 4px #c04747;
+    text-align: center;
+    /* text-shadow:2px 2px 4px #c04747; */
 }
